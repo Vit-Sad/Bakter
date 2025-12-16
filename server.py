@@ -27,5 +27,6 @@ while True:
         except:
             pass
 
+
     time.sleep(1) #ограничение скорости
 
